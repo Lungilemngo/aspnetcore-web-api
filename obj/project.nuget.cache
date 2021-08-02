@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "g+LUoioVBFI7dFG4y1jR2TSBP+CBramlASaGIRFno4xtGQAlbwWO4WTT6VcJW27G8Y+G1fe0yyjkVH/qxh+LKQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Lungi\\source\\repos\\git\\my-books\\my-books\\my-books.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Lungi\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\Lungi\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Lungi\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\Lungi\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\Lungi\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\Lungi\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}
